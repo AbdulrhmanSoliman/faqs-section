@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Take a look 😀](https://abdulrhmansoliman.github.io/faqs-section/)
+- Live Site URL: [Take a look 😀](https://faqs-section-challenge.vercel.app/)
 - My GitHub URL: [GitHub](http://github.com/AbdulrhmanSoliman)
 
 ### Built with
